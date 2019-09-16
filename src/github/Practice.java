@@ -10,6 +10,9 @@ public class Practice {
 	}
 	public void newMethods() {
 		System.out.println("version 1.2");
+		
+		
+		System.out.println("version 1.3");
 	}
 
 }
