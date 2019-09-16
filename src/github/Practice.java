@@ -8,5 +8,8 @@ public class Practice {
 		System.out.println("version 1.1");
 
 	}
+	public void newMethods() {
+		System.out.println("version 1.2");
+	}
 
 }
